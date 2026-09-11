@@ -1,0 +1,42 @@
+### Health
+GET http://localhost:8000/health
+
+### English farmer question
+POST http://localhost:8000/api/chat
+Content-Type: application/json
+
+{
+  "message": "Will heavy rain affect my crops and what should I do?",
+  "role": "farmer",
+  "location": "Shimla, Himachal Pradesh",
+  "language": "en"
+}
+
+### Hindi citizen question
+POST http://localhost:8000/api/chat
+Content-Type: application/json
+
+{
+  "message": "क्या आज बाहर जाना सुरक्षित है?",
+  "role": "citizen",
+  "location": "Shimla, Himachal Pradesh",
+  "language": "hi"
+}
+
+### Alert banner
+GET http://localhost:8000/api/alerts?location=Shimla
+
+### Subscribe to WhatsApp alerts
+POST http://localhost:8000/api/subscribe
+Content-Type: application/json
+
+{
+  "contact": "+919876543210",
+  "channel": "whatsapp",
+  "location": "Shimla",
+  "role": "farmer"
+}
+
+### WhatsApp Sandbox webhook (configure Twilio to POST here)
+# POST https://<ngrok-url>/whatsapp/webhook
+# Send: Shimla: Will heavy rain affect my crops?

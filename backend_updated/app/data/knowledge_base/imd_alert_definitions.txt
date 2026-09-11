@@ -1,0 +1,46 @@
+# IMD Alert Level Definitions
+
+## Red Alert — Take Action
+A Red Alert is the highest warning level issued by the India Meteorological Department. It indicates extremely severe weather conditions are expected that pose a significant threat to life and property.
+
+When a Red Alert is active:
+- Rainfall may exceed 204 mm in 24 hours
+- Wind speeds may exceed 170 km/h
+- Temperatures may exceed 47°C (extreme heatwave) or drop below -10°C (extreme cold wave)
+- Authorities should activate emergency response plans immediately
+- People should stay indoors and avoid all non-essential travel
+- Evacuations may be ordered in vulnerable areas
+- All outdoor activities and events should be cancelled
+- Emergency shelters should be opened and stocked
+
+## Orange Alert — Be Prepared
+An Orange Alert indicates significantly bad weather expected. Conditions are unusual and potentially dangerous.
+
+When an Orange Alert is active:
+- Rainfall may reach 115-204 mm in 24 hours
+- Wind speeds may reach 100-170 km/h
+- Temperatures may reach 44-47°C (severe heatwave) or drop to -5 to -10°C (severe cold)
+- Be prepared for disruption to daily activities
+- Secure loose objects, outdoor furniture, and equipment
+- Stock essential supplies (water, food, medicines, flashlights)
+- Keep emergency contact numbers handy
+- Monitor official updates frequently
+- Schools and offices may be directed to close
+- Fishing operations should be suspended in affected coastal areas
+
+## Yellow Alert — Be Aware
+A Yellow Alert means adverse weather is possible over the next few days. Conditions could change for the worse.
+
+When a Yellow Alert is active:
+- Rainfall may reach 64-115 mm in 24 hours
+- Wind speeds may reach 60-100 km/h
+- Temperatures may reach 40-44°C (heatwave) or drop to 0 to -5°C (cold wave)
+- Stay updated with the latest weather forecast
+- Plan outdoor activities carefully
+- Farmers should take precautionary measures for crops and livestock
+- Fishermen should exercise caution near the coast
+- Keep rain gear and protective clothing ready
+- Be aware of the possibility of waterlogging in low-lying areas
+
+## Green — No Alert
+No significant weather warning. Normal weather conditions prevail. Continue with routine activities while staying aware of regular weather updates.

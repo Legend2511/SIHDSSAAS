@@ -1,0 +1,55 @@
+# Crop Advisories — Illustrative Starter Knowledge Base
+
+## Frost Protection for Crops
+When minimum temperatures are forecast below 2°C, take immediate frost protection measures. Cover nursery beds and young transplants with straw, plastic sheets, or old cloth. Light irrigation in the evening can help — wet soil retains heat better than dry soil. Smoke generation in early morning using dampened organic material creates a micro-canopy that traps ground heat. Frost-sensitive crops like tomatoes, potatoes, and peas are most vulnerable. Delay sowing of summer vegetables if frost risk persists.
+
+## Pre-Monsoon Sowing Advisory
+Begin land preparation 2-3 weeks before expected monsoon onset. Select drought-tolerant varieties if monsoon onset is predicted to be delayed. Complete sowing of kharif crops (rice, maize, millets, pulses) within 10-15 days of consistent rainfall. Early sowing takes advantage of initial soil moisture and reduces pest pressure. Ensure seed treatment with fungicide before sowing to prevent seedling diseases. Apply basal dose of fertilizer at the time of sowing, not after.
+
+## Monsoon Crop Management
+During active monsoon spells with heavy rainfall forecast, ensure proper drainage in fields to prevent waterlogging. Waterlogging for more than 48 hours can kill rice seedlings that are less than 3 weeks old. Apply nitrogen fertilizer only during dry spells to prevent wasteful runoff. In upland areas, contour bunding helps retain soil moisture for longer. Monitor for blast disease in rice when humidity exceeds 90% for consecutive days.
+
+## Post-Monsoon Rabi Sowing
+Start rabi crop preparation as soon as kharif harvest is complete. Wheat sowing should ideally be completed before November 25th in north India — delayed sowing reduces yields by approximately 35 kg per hectare per day of delay. Mustard and chickpea can tolerate later sowing windows. Apply pre-sowing irrigation (rauni) to bring the soil to field capacity before wheat sowing.
+
+## Heatwave Advisory for Farmers
+During heatwave conditions (maximum temperature exceeding 40°C), provide light frequent irrigation rather than heavy flooding. Mulch the base of vegetable and fruit crops with dry grass or crop residue to reduce soil temperature. Avoid spraying any chemicals during peak heat hours — it reduces efficacy and increases phytotoxicity risk. Harvest mature vegetables and fruits in early morning when temperatures are lower to maintain quality.
+
+## Pest Alert — Seasonal Timing
+Fall armyworm typically appears in maize fields 2-3 weeks after sowing during kharif season. Regular scouting (twice weekly) during this window is critical for early detection. Yellow stem borer in rice peaks during July-August in most of India. Aphid infestation in mustard typically peaks in January when temperatures drop below 15°C and humidity is high.
+
+## Irrigation Management Under Water Scarcity
+When reservoir levels are below 50%, shift to deficit irrigation strategies. Rice can tolerate alternate wetting and drying (AWD) — saving up to 30% water with minimal yield loss. Critical irrigation stages: crown root initiation, flowering, and grain filling in wheat; tillering, panicle initiation, and flowering in rice. Skip non-critical irrigations to conserve water for these stages.
+
+## Wind Damage Prevention for Crops
+When winds exceeding 50 km/h are forecast, provide staking support for tall crops like sugarcane, maize, and banana. Banana pseudostems should be propped with bamboo stakes before cyclone season. For orchard crops, pruning top-heavy branches reduces wind resistance and breakage risk. Windbreaks of fast-growing trees (Casuarina, Eucalyptus) planted on the windward side reduce damage significantly.
+
+## Crop Insurance Advisory
+Farmers should enroll in Pradhan Mantri Fasal Bima Yojana (PMFBY) before the sowing season deadline. Coverage includes losses from drought, flood, hailstorm, cyclone, and pest attacks. Report crop losses to the insurance company or through the Crop Insurance App within 72 hours of the event. Take dated photographs of damage for documentation purposes.
+
+## Harvest and Post-Harvest During Unseasonal Rain
+If unseasured rain is forecast during harvest period, prioritize harvesting mature crops immediately. Spread harvested grain on elevated, paved areas for drying — avoid ground contact that promotes fungal growth. If grain cannot be dried immediately, store with adequate ventilation and check moisture content before bagging. Grain stored above 14% moisture is prone to fungal contamination and should not be consumed or sold.
+
+## Fisheries Weather Advisory
+Fishermen should not venture into the sea when wind speeds exceed 45 km/h or wave heights exceed 3.5 meters. During cyclone warnings, all fishing boats should return to harbor at least 24 hours before expected landfall. Optimal fishing conditions include moderate winds (15-25 km/h), sea surface temperatures between 26-29°C, and locations near upwelling zones identified by satellite imagery.
+
+## Livestock Management During Extreme Weather
+During heatwaves, provide shade structures and increase water availability by 30-50% for cattle and poultry. Signs of heat stress in cattle: excessive panting, drooling, reduced milk yield. Cold wave management: provide dry bedding, windbreaks, and increase feed quantity by 15-20% to meet increased energy needs. During floods, move livestock to pre-identified higher ground — do not attempt to save animals if water is already chest-deep.
+
+## Soil Health After Floods
+After floodwater recedes, wait for the soil to dry to workable moisture before tilling. Flood-deposited silt may be nutrient-rich but can also contain heavy metals — get a soil test before the next sowing. Apply lime if soil pH has become acidic due to waterlogging. Green manuring with dhaincha (Sesbania) or sunhemp helps restore soil structure and adds nitrogen.
+
+## Kitchen Garden Advisory
+During monsoon season, grow water-tolerant vegetables: spinach, amaranth, bottle gourd, ridge gourd, and okra. Raised bed cultivation prevents root rot from waterlogging. In winter, start nursery beds for tomato, brinjal, and chili under polythene covers if frost is expected. Vertical gardening techniques work well for urban balcony gardens even during extreme weather.
+
+## Drought Management for Crops
+When rainfall deficit exceeds 50% of normal, switch to short-duration crop varieties that mature 15-20 days earlier. Mulching reduces water evaporation from soil by up to 50%. Prioritize life-saving irrigations at critical growth stages rather than spreading water thinly across all irrigations. Consider contingency crops: horse gram, castor, and pearl millet are highly drought-tolerant.
+
+## Weather-Based Spray Advisory
+Do not spray pesticides or fungicides if rainfall is expected within 4-6 hours — it washes away the chemical. Best spraying conditions: calm winds (below 10 km/h), temperature below 35°C, and humidity above 40%. Systemic pesticides are more rain-resistant than contact pesticides — prefer them during monsoon season. Early morning or late evening application improves efficacy and reduces pollinator exposure.
+
+## Fruit Orchard Protection
+Mango flowering is sensitive to sudden temperature drops — if minimum temperature falls below 10°C during flowering, apply two light irrigations to moderate micro-climate. Citrus fruit drop increases when temperatures exceed 40°C — provide basin irrigation during this period. After hailstorms, immediately spray copper-based fungicide on damaged fruits to prevent bacterial and fungal entry through wounds.
+
+## Sericulture Weather Advisory
+Mulberry leaf quality deteriorates rapidly in temperatures above 38°C — harvest leaves early morning when quality is best. Silkworm rearing rooms should maintain 24-28°C and 70-80% relative humidity. During cold waves, use room heaters to maintain minimum temperature above 20°C in rearing houses. Excess humidity during monsoon promotes muscardine disease in silkworms.
